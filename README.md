@@ -4,6 +4,10 @@ A tiny, keyboard-first video viewer for Windows, inspired by [Fly Photos](https:
 
 Built with C# / WPF on .NET.
 
+## Download
+
+Grab the latest **`FlyVideos-win-x64.zip`** from the [Releases](https://github.com/Evilironman/FlyVideos/releases) page — no .NET runtime required. Unzip and run `FlyVideos.exe`. Windows 10/11 (64-bit).
+
 ## Features
 
 ### Playback
