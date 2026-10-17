@@ -8,6 +8,20 @@ Built with C# / WPF on .NET.
 
 Grab the latest **`FlyVideos-win-x64.zip`** from the [Releases](https://github.com/Evilironman/FlyVideos/releases) page — no .NET runtime required. Unzip and run `FlyVideos.exe`. Windows 10/11 (64-bit).
 
+## Screenshots
+
+<img src="screenshots/main.png" width="800" alt="FlyVideos main window playing a video, with the folder thumbnail strip, timeline and on-screen info" />
+
+*The main window — playing a video, with the folder's thumbnail strip below (current video highlighted, click any frame to jump), the timeline and the top-left status line.*
+
+<img src="screenshots/speed.png" width="800" alt="Playback speed panel with 1.5x speed applied" />
+
+*Playback speed — press `S` for the − / + panel, `[` / `]` for fine steps, `0` to reset.*
+
+<img src="screenshots/fullscreen.png" width="800" alt="Fullscreen playback mode" />
+
+*Fullscreen — press `F`; the chrome melts away on any display.*
+
 ## Features
 
 ### Playback
