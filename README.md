@@ -1,6 +1,6 @@
 # FlyVideos
 
-A tiny, keyboard-first video viewer for Windows, in the spirit of [FlyPhotos](https://github.com/riyasy/FlyPhotos): instant open, minimal chrome, everything one keypress away.
+A tiny, keyboard-first video viewer for Windows, inspired by [Fly Photos](https://github.com/riyasy/FlyPhotos) by [riyasy](https://github.com/riyasy): instant open, minimal chrome, everything one keypress away.
 
 Built with C# / WPF on .NET.
 
@@ -71,6 +71,10 @@ No installer needed. To wire it into Explorer's right-click menu:
 1. Right-click any video → **Open with** → **Choose another app** → **FlyVideos** → *Always*
 
 Or press `O` / drag & drop anything onto the window and browse from there.
+
+## Credits
+
+- Inspired by [Fly Photos](https://github.com/riyasy/FlyPhotos) by [riyasy](https://github.com/riyasy) — a blazing-fast, ultra-light photo viewer for Windows. FlyVideos is an independent, video-focused take on the same idea.
 
 ## License
 
